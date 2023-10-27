@@ -1,4 +1,4 @@
-import { createQuery } from "../../../query/packages/solid-query";
+// import { createQuery } from "../../../query/packages/solid-query";
 import { Suspense, createResource } from "solid-js";
 import { A } from "solid-start";
 
